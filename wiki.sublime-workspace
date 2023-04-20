@@ -1,0 +1,750 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"staticu\tstatic URL"
+			],
+			[
+				"e",
+				"encyclopedia"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"form",
+				"formaction"
+			],
+			[
+				"for",
+				"formaction"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"ni",
+				"initial"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"cy",
+				"lightcyan"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"yel",
+				"yellowgreen"
+			],
+			[
+				"bx",
+				"box-sizing"
+			],
+			[
+				"a",
+				"relative"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"justi",
+				"justify-items"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"just",
+				"justify-items"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"inli",
+				"inline-table"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ini",
+				"inline"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"dar",
+				"darkcyan"
+			],
+			[
+				"cyan",
+				"lightcyan"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"backgro",
+				"background-clip"
+			],
+			[
+				"upd",
+				"updatesEnabled"
+			],
+			[
+				"sel",
+				"setWindowTitle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "encyclopedia/templates/encyclopedia/layout.html",
+			"redo_stack":
+			[
+				[
+					24,
+					1,
+					"expand_snippet",
+					null,
+					"AgAAAKkBAAAAAAAAqQEAAAAAAAAPAAAAeyUgc3RhdGljICIiICV9qQEAAAAAAACvAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAEAAAAAAAC0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "tic"
+					},
+					"AwAAAK4BAAAAAAAArgEAAAAAAAABAAAAY60BAAAAAAAArQEAAAAAAAABAAAAaawBAAAAAAAArAEAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAArwEAAAAAAACvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"left_delete",
+					null,
+					"AgAAAKwBAAAAAAAArQEAAAAAAAAAAAAArQEAAAAAAACuAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAEAAAAAAACsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "it"
+					},
+					"AgAAAK0BAAAAAAAArQEAAAAAAAABAAAAdKwBAAAAAAAArAEAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAArgEAAAAAAACuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\nsta"
+					},
+					"BQAAAKsBAAAAAAAAqwEAAAAAAAABAAAAYaoBAAAAAAAAqgEAAAAAAAABAAAAdKkBAAAAAAAAqQEAAAAAAAABAAAAc6EBAAAAAAAAoQEAAAAAAAAIAAAAICAgICAgICCgAQAAAAAAAKABAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAArAEAAAAAAACsAQAAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 1203,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"preferesettings",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"preferences settn",
+				"Preferences: Settings"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"wrap",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"remo",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"bracket select",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"bracket:",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"wrap bra",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"bracket wra",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brackwrap",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"bracketremo",
+				"BracketHighlighter: Remove Brackets"
+			],
+			[
+				"prefere settings",
+				"Preferences: Settings"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminus ope",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termin open d",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"te tog",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"toggle pane",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"terminus open",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"terminu open",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda settin",
+				"Anaconda: Set Python interpreter"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia",
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia/wiki"
+	],
+	"file_history":
+	[
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia/encyclopedia/templates/encyclopedia/index.html",
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia/wiki.sublime-project",
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia/encyclopedia/templates/encyclopedia/layout.html",
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia/encyclopedia/static/encyclopedia/styles.css",
+		"/home/ketolumin/.config/sublime-text/Packages/User/Python (Django).sublime-settings",
+		"/home/ketolumin/.config/sublime-text/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/home/ketolumin/.config/sublime-text/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/home/ketolumin/.config/sublime-text/Packages/Terminal/Terminal.sublime-settings",
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia/encyclopedia/util.py",
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia/manage.py",
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia/wiki/urls.py",
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia/encyclopedia/views.py",
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia/.gitignore",
+		"/home/ketolumin/Dev/Web/wiki-encyclopedia/Mariana.sublime-color-scheme",
+		"/home/ketolumin/Dev/Web/wiki/encyclopedia/util.py",
+		"/home/ketolumin/Dev/Web/wiki/.gitignore",
+		"/home/ketolumin/Dev/Web/google-clone/advanced.html",
+		"/home/ketolumin/Dev/Web/google-clone/stylesheets/nav.scss",
+		"/home/ketolumin/Dev/Web/google-clone/stylesheets/advanced.scss",
+		"/home/ketolumin/Dev/Web/google-clone/Mariana.sublime-color-scheme",
+		"/home/ketolumin/Dev/Roach_Island/actors/Player.lua",
+		"/home/ketolumin/Dev/Web/google-clone/images.html",
+		"/home/ketolumin/Dev/Web/google-clone/index.html",
+		"/home/ketolumin/Dev/Web/google-clone/stylesheets/main.scss",
+		"/home/ketolumin/Dev/Web/google-clone/stylesheets/style.scss",
+		"/home/ketolumin/Dev/Web/google-clone/utilities/_components.scss",
+		"/home/ketolumin/Dev/Web/google-clone/compiled/advanced.css",
+		"/home/ketolumin/Dev/Web/google-clone/utilities/reset.css",
+		"/home/ketolumin/Dev/Web/google-clone/stylesheets/images.scss",
+		"/home/ketolumin/Dev/Web/google-clone/utilities/_variables.scss",
+		"/home/ketolumin/Dev/Web/google-clone/utilities/_classes.scss",
+		"/home/ketolumin/Dev/Web/google-clone/stylesheets/bruh.dd",
+		"/home/ketolumin/Dev/Web/google-clone/stylesheets/_variables.scss",
+		"/home/ketolumin/Dev/Web/google-clone/nav.scss",
+		"/home/ketolumin/Dev/Web/google-clone/style.scss",
+		"/home/ketolumin/Dev/Web/google-clone/images.scss",
+		"/home/ketolumin/Dev/Web/google-clone/main.scss",
+		"/home/ketolumin/Dev/Web/google-clone/style.css",
+		"/home/ketolumin/Dev/Web/google-clone/style.css.map",
+		"/home/ketolumin/Dev/Python/QT/university.ui",
+		"/home/ketolumin/.config/sublime-text/Packages/Anaconda/Anaconda.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "encyclopedia/templates/encyclopedia/layout.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										348,
+										352
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										348,
+										352
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 120.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "wiki.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

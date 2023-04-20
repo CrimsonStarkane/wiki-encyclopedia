@@ -1,0 +1,100 @@
+.row .sidebar form .search, .row .sidebar form input[type=submit] {
+  font-size: 14px;
+  line-height: 14px;
+  border: 1px solid #a2a9b1;
+  color: #202122;
+}
+
+body {
+  background-color: #f9f9f9;
+  color: #343434;
+}
+
+code {
+  white-space: pre;
+}
+
+textarea {
+  height: 90vh;
+  width: 80%;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.row {
+  width: 100vw;
+}
+.row .sidebar {
+  background-color: #e0e0e2;
+  height: 100vh;
+  padding-right: 0 !important;
+}
+.row .sidebar .header-box {
+  padding: 15px 0 8px 0;
+  background-color: #E45441;
+  color: #f9f9f9;
+  text-align: center;
+}
+.row .sidebar .header-box h2 {
+  cursor: default;
+}
+.row .sidebar form {
+  display: flex;
+  position: relative;
+  margin: 10px 5px 0 5px;
+}
+.row .sidebar form .search-icon-box {
+  position: absolute;
+  left: 5px;
+  height: 100%;
+}
+.row .sidebar form .search-icon-box img {
+  height: 70%;
+  opacity: 0.7;
+}
+.row .sidebar form .search {
+  border-radius: 2px;
+  border-right-color: transparent;
+  padding: 4px 8px 4px 25px;
+}
+.row .sidebar form .search:hover {
+  border-color: #72777d;
+}
+.row .sidebar form .search:focus {
+  border-color: #36c;
+  box-shadow: inset 0 0 0 1px #36c;
+  outline: 1px solid transparent;
+}
+.row .sidebar form input[type=submit] {
+  font-weight: bold;
+  padding: 4px;
+  border-left-width: 0;
+  background-color: #f8f9fa;
+}
+.row .sidebar form input[type=submit]:hover {
+  background-color: white;
+  color: #404244;
+}
+.row .sidebar .page-links {
+  padding: 5px;
+  color: #343434;
+}
+.row .sidebar .page-links h6 {
+  margin: 20px 0;
+}
+.row .main {
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+.row .main h1 {
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+/*# sourceMappingURL=styles.css.map */
