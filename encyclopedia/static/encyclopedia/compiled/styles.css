@@ -27,10 +27,19 @@ a:hover {
   text-decoration: none;
 }
 
+ul,
+li {
+  list-style-type: none;
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+}
+
 .row {
   width: 100vw;
 }
 .row .sidebar {
+  position: relative;
   background-color: #e0e0e2;
   height: 100vh;
   padding-right: 0 !important;
@@ -82,19 +91,51 @@ a:hover {
   color: #404244;
 }
 .row .sidebar .page-links {
-  padding: 5px;
+  padding: 5px 10px;
   color: #343434;
 }
-.row .sidebar .page-links h6 {
-  margin: 20px 0;
+.row .sidebar .page-links .links-label {
+  margin: 20px 0 20px 5px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+.row .sidebar .page-links .link {
+  margin-bottom: 15px;
 }
 .row .main {
   padding: 10px;
   background-color: #f9f9f9;
 }
 .row .main h1 {
-  margin-top: 0px;
-  padding-top: 20px;
+  margin: 25px 0 20px 30px;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #757575;
+}
+.row .main .divider {
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.11);
+  margin-bottom: 20px;
+}
+.row .main .entries {
+  padding: 0 20px;
+}
+.row .main .entries a:hover {
+  color: inherit;
+}
+.row .main .entries .entry {
+  padding: 1rem;
+  margin-bottom: 20px;
+  width: 100%;
+  box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11), 0 5px 15px 0 rgba(0, 0, 0, 0.08);
+  background-color: white;
+  border-radius: 0.5rem;
+  border-left: 0 solid #00ff99;
+  transition: border-left 300ms ease-in-out, padding-left 300ms ease-in-out;
+}
+.row .main .entries .entry:hover {
+  padding-left: 0.5rem;
+  border-left-width: 0.5rem;
 }
 
 /*# sourceMappingURL=styles.css.map */

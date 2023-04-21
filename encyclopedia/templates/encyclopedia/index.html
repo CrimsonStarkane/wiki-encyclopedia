@@ -6,10 +6,12 @@
 
 {% block body %}
     <h1>All Pages</h1>
-
-    <ul>
+    <div class="divider"></div>
+    <ul class="entries">
         {% for entry in entries %}
-            <li>{{ entry }}</li>
+            <a href="#">
+                <li class="entry">{{ entry }}</li>                
+            </a>
         {% endfor %}
     </ul>
 

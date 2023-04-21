@@ -22,28 +22,26 @@
                 <input type="submit" value="Search">
             </form>
             <div class="page-links">
-                <h6>Browse</h6>
-                <div>
+                <h6 class="links-label">BROWSE</h6>
+                <div class="link">
                     <a href="{% url 'index' %}">
                         <img src="{% static 'encyclopedia/home.svg' %}" alt="Home Icon">
                         Home
                     </a>
                 </div>
-                <div>
+                <div class="link">
                     <a href="#">
                         <img src="{% static 'encyclopedia/edit.svg' %}" alt="Edit Icon">
                         Create New Page
                     </a>
                 </div>
-                <div>
+                <div class="link">
                     <a href="#">
                         <img src="{% static 'encyclopedia/shuffle.svg' %}" alt="Shuffle Icon">
                         Random Page
                     </a>
                 </div>
             </div>
-            {% block nav %}
-            {% endblock %}
         </div>
         <div class="main col">
             {% block body %}
