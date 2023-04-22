@@ -9,10 +9,9 @@
     <div class="divider"></div>
     <ul class="entries">
         {% for entry in entries %}
-            <a href="#">
-                <li class="entry">{{ entry }}</li>                
+            <a href="{% url 'display' entry %}">
+                <li class="entry">{{ entry }}</li>
             </a>
         {% endfor %}
     </ul>
-
 {% endblock %}

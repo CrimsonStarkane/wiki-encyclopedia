@@ -1,0 +1,43 @@
+@use 'components' as c;
+
+.main {
+    padding: 10px;
+    background-color: c.$white-color;
+
+    h1 {
+        margin: 25px 0 20px 30px;
+        font-size: 2rem;
+        font-weight: bold;
+        color: #757575;
+    }
+
+    .divider {
+        width: 100%;
+        border: 1px solid rgba(0, 0, 0, 0.11);
+        margin-bottom: 20px;
+    }
+
+    .entries {
+        padding: 0 20px;
+
+        a:hover {
+            color: inherit;
+        }
+
+        .entry {
+            padding: 1rem;
+            margin-bottom: 20px;
+            width: 100%;
+            box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11), 0 5px 15px 0 rgba(0, 0, 0, 0.08);
+            background-color: white;
+            border-radius: 0.5rem;
+            border-left: 0 solid #00ff99;
+            transition: border-left 300ms ease-in-out, padding-left 300ms ease-in-out;
+        }
+
+        .entry:hover {
+            padding-left: 0.5rem;
+            border-left-width: 0.5rem;
+        }
+    }
+}

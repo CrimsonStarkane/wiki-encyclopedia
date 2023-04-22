@@ -1,0 +1,90 @@
+@use 'components' as c;
+
+body {
+    background-color: c.$white-color;
+    color: c.$bg-color;
+}
+
+.row {
+    width: 100vw;
+
+    .sidebar {
+        position: relative;
+        background-color: #e0e0e2;
+        height: 100vh;
+        padding-right: 0 !important;
+
+        .header-box {
+            padding: 15px 0 8px 0;
+            background-color: #E45441;
+            color: c.$white-color;
+            text-align: center;
+
+            h2 {
+                cursor: default;
+            }
+        }
+
+        form {
+            display: flex;
+            position: relative;
+            margin: 10px 5px 0 5px;
+
+            .search-icon-box {
+                position: absolute;
+                left: 5px;
+                height: 100%;
+
+                img {
+                    height: 70%;
+                    opacity: 0.7;
+                }
+            }
+
+            .search {
+                @extend %form-state;
+                border-radius: 2px;
+                border-right-color: transparent;
+                padding: 4px 8px 4px 25px;
+            }
+
+            .search:hover {
+                border-color: #72777d;
+            }
+
+            .search:focus {
+                border-color: c.$form-focus-color;
+                box-shadow: inset 0 0 0 1px c.$form-focus-color;
+                outline: 1px solid transparent;
+            }
+
+            input[type="submit"] {
+                @extend %form-state;
+                font-weight: bold;
+                padding: 4px;
+                border-left-width: 0;
+                background-color: #f8f9fa;
+            }
+
+            input[type="submit"]:hover {
+                background-color: white;
+                color: #404244;
+            }
+        }
+
+        .page-links {
+            padding: 5px 10px;
+            color: c.$bg-color;
+
+            .links-label {
+                margin: 20px 0 20px 5px;
+                font-size: 0.8rem;
+                font-weight: bold;
+            }
+
+            .link {
+                margin-bottom: 15px;
+            }
+        }
+    }
+}
