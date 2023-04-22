@@ -2,7 +2,7 @@
 
 body {
     background-color: c.$white-color;
-    color: #343434;
+    color: c.$bg-color;
 }
 
 code {
@@ -99,7 +99,7 @@ li {
 
         .page-links {
             padding: 5px 10px;
-            color: #343434;
+            color: c.$bg-color;
 
             .links-label {
                 margin: 20px 0 20px 5px;
